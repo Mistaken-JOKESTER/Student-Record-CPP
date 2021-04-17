@@ -2,6 +2,7 @@
 
 This is C++ console application to keep record of all the students based on object oriented programming.
 > student_record.bat - is used as database for storing info in binary format
+
 >Any kind of C++ compiler is required to run the application 
  - 1 - Show all student.
  - 2 - Add new student.
@@ -10,4 +11,5 @@ This is C++ console application to keep record of all the students based on obje
  - 5 - Search by Standard and RollNo.
 
    <code>g++ main.cpp</code> - To compile the program
+   <br>
    <code>student_record.cbp</code> - To open as project
