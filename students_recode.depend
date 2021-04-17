@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1618683260 source:/home/asroot/C++/Projects/students_recode/student.cpp
+	"student.h"
+	<iostream>
+	<iomanip>
+	<ios>
+	<limits>
+	<fstream>
+
+1618682895 /home/asroot/C++/Projects/students_recode/student.h
+
+1618683357 source:/home/asroot/C++/Projects/students_recode/main.cpp
+	<iostream>
+	"student.h"
+	<limits>
+
